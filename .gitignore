@@ -1,0 +1,4 @@
+/env
+setting.py
+db.sqlite3
+admin.py
